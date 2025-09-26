@@ -1,0 +1,13 @@
+D:\coding files\DVLD_project\PeopleBusnisLayer\bin\Debug\PeopleBusnisLayer.dll
+D:\coding files\DVLD_project\PeopleBusnisLayer\bin\Debug\PeopleBusnisLayer.pdb
+D:\coding files\DVLD_project\PeopleBusnisLayer\bin\Debug\PeopleDBLayer.dll
+D:\coding files\DVLD_project\PeopleBusnisLayer\bin\Debug\PeopleDBLayer.pdb
+D:\coding files\DVLD_project\PeopleBusnisLayer\obj\Debug\PeopleBusnisLayer.csproj.AssemblyReference.cache
+D:\coding files\DVLD_project\PeopleBusnisLayer\obj\Debug\PeopleBusnisLayer.csproj.CoreCompileInputs.cache
+D:\coding files\DVLD_project\PeopleBusnisLayer\obj\Debug\PeopleBu.DD37D314.Up2Date
+D:\coding files\DVLD_project\PeopleBusnisLayer\obj\Debug\PeopleBusnisLayer.dll
+D:\coding files\DVLD_project\PeopleBusnisLayer\obj\Debug\PeopleBusnisLayer.pdb
+D:\coding files\DVLD_project\PeopleBusnisLayer\bin\Debug\countriesBusnesLayer.dll
+D:\coding files\DVLD_project\PeopleBusnisLayer\bin\Debug\CountriesDBLayer.dll
+D:\coding files\DVLD_project\PeopleBusnisLayer\bin\Debug\countriesBusnesLayer.pdb
+D:\coding files\DVLD_project\PeopleBusnisLayer\bin\Debug\CountriesDBLayer.pdb

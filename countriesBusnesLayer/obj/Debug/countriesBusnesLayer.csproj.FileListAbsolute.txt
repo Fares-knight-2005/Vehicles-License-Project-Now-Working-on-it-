@@ -1,0 +1,9 @@
+D:\coding files\DVLD_project\countriesBusnesLayer\obj\Debug\countriesBusnesLayer.csproj.AssemblyReference.cache
+D:\coding files\DVLD_project\countriesBusnesLayer\obj\Debug\countriesBusnesLayer.csproj.CoreCompileInputs.cache
+D:\coding files\DVLD_project\countriesBusnesLayer\bin\Debug\countriesBusnesLayer.dll
+D:\coding files\DVLD_project\countriesBusnesLayer\bin\Debug\countriesBusnesLayer.pdb
+D:\coding files\DVLD_project\countriesBusnesLayer\bin\Debug\CountriesDBLayer.dll
+D:\coding files\DVLD_project\countriesBusnesLayer\bin\Debug\CountriesDBLayer.pdb
+D:\coding files\DVLD_project\countriesBusnesLayer\obj\Debug\countrie.4BCA58DA.Up2Date
+D:\coding files\DVLD_project\countriesBusnesLayer\obj\Debug\countriesBusnesLayer.dll
+D:\coding files\DVLD_project\countriesBusnesLayer\obj\Debug\countriesBusnesLayer.pdb

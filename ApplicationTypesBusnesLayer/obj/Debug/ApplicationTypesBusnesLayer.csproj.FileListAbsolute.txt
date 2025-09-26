@@ -1,0 +1,9 @@
+D:\coding files\DVLD_project\ApplicationTypesBusnesLayer\bin\Debug\ApplicationTypesBusnesLayer.dll
+D:\coding files\DVLD_project\ApplicationTypesBusnesLayer\bin\Debug\ApplicationTypesBusnesLayer.pdb
+D:\coding files\DVLD_project\ApplicationTypesBusnesLayer\bin\Debug\ApplicationTypesDataLayer.dll
+D:\coding files\DVLD_project\ApplicationTypesBusnesLayer\bin\Debug\ApplicationTypesDataLayer.pdb
+D:\coding files\DVLD_project\ApplicationTypesBusnesLayer\obj\Debug\ApplicationTypesBusnesLayer.csproj.AssemblyReference.cache
+D:\coding files\DVLD_project\ApplicationTypesBusnesLayer\obj\Debug\ApplicationTypesBusnesLayer.csproj.CoreCompileInputs.cache
+D:\coding files\DVLD_project\ApplicationTypesBusnesLayer\obj\Debug\Applicat.A9806F88.Up2Date
+D:\coding files\DVLD_project\ApplicationTypesBusnesLayer\obj\Debug\ApplicationTypesBusnesLayer.dll
+D:\coding files\DVLD_project\ApplicationTypesBusnesLayer\obj\Debug\ApplicationTypesBusnesLayer.pdb

@@ -1,0 +1,9 @@
+D:\coding files\DVLD_project\TestAppointmentsBusnesLayer\bin\Debug\TestAppointmentsBusnesLayer.dll
+D:\coding files\DVLD_project\TestAppointmentsBusnesLayer\bin\Debug\TestAppointmentsBusnesLayer.pdb
+D:\coding files\DVLD_project\TestAppointmentsBusnesLayer\bin\Debug\TestAppointmentsDataLayer.dll
+D:\coding files\DVLD_project\TestAppointmentsBusnesLayer\bin\Debug\TestAppointmentsDataLayer.pdb
+D:\coding files\DVLD_project\TestAppointmentsBusnesLayer\obj\Debug\TestAppointmentsBusnesLayer.csproj.AssemblyReference.cache
+D:\coding files\DVLD_project\TestAppointmentsBusnesLayer\obj\Debug\TestAppointmentsBusnesLayer.csproj.CoreCompileInputs.cache
+D:\coding files\DVLD_project\TestAppointmentsBusnesLayer\obj\Debug\TestAppo.E7B5EBBE.Up2Date
+D:\coding files\DVLD_project\TestAppointmentsBusnesLayer\obj\Debug\TestAppointmentsBusnesLayer.dll
+D:\coding files\DVLD_project\TestAppointmentsBusnesLayer\obj\Debug\TestAppointmentsBusnesLayer.pdb

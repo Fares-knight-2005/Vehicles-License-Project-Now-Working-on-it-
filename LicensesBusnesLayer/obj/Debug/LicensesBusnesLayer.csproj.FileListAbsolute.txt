@@ -1,0 +1,9 @@
+D:\coding files\DVLD_project\LicensesBusnesLayer\bin\Debug\LicensesBusnesLayer.dll
+D:\coding files\DVLD_project\LicensesBusnesLayer\bin\Debug\LicensesBusnesLayer.pdb
+D:\coding files\DVLD_project\LicensesBusnesLayer\bin\Debug\LicensesDataLayer.dll
+D:\coding files\DVLD_project\LicensesBusnesLayer\bin\Debug\LicensesDataLayer.pdb
+D:\coding files\DVLD_project\LicensesBusnesLayer\obj\Debug\LicensesBusnesLayer.csproj.AssemblyReference.cache
+D:\coding files\DVLD_project\LicensesBusnesLayer\obj\Debug\LicensesBusnesLayer.csproj.CoreCompileInputs.cache
+D:\coding files\DVLD_project\LicensesBusnesLayer\obj\Debug\Licenses.82BF5C81.Up2Date
+D:\coding files\DVLD_project\LicensesBusnesLayer\obj\Debug\LicensesBusnesLayer.dll
+D:\coding files\DVLD_project\LicensesBusnesLayer\obj\Debug\LicensesBusnesLayer.pdb

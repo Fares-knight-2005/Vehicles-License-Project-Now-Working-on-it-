@@ -1,0 +1,6 @@
+D:\coding files\DVLD_project\UsersDataLayer\bin\Debug\UsersDataLayer.dll
+D:\coding files\DVLD_project\UsersDataLayer\bin\Debug\UsersDataLayer.pdb
+D:\coding files\DVLD_project\UsersDataLayer\obj\Debug\UsersDataLayer.csproj.AssemblyReference.cache
+D:\coding files\DVLD_project\UsersDataLayer\obj\Debug\UsersDataLayer.csproj.CoreCompileInputs.cache
+D:\coding files\DVLD_project\UsersDataLayer\obj\Debug\UsersDataLayer.dll
+D:\coding files\DVLD_project\UsersDataLayer\obj\Debug\UsersDataLayer.pdb

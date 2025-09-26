@@ -1,0 +1,6 @@
+D:\coding files\DVLD_project\DriversDataLayer\bin\Debug\DriversDataLayer.dll
+D:\coding files\DVLD_project\DriversDataLayer\bin\Debug\DriversDataLayer.pdb
+D:\coding files\DVLD_project\DriversDataLayer\obj\Debug\DriversDataLayer.csproj.AssemblyReference.cache
+D:\coding files\DVLD_project\DriversDataLayer\obj\Debug\DriversDataLayer.csproj.CoreCompileInputs.cache
+D:\coding files\DVLD_project\DriversDataLayer\obj\Debug\DriversDataLayer.dll
+D:\coding files\DVLD_project\DriversDataLayer\obj\Debug\DriversDataLayer.pdb

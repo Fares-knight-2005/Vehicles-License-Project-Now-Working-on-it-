@@ -1,0 +1,9 @@
+D:\coding files\DVLD_project\TestTypesBusnesLayer\bin\Debug\TestTypesBusnesLayer.dll
+D:\coding files\DVLD_project\TestTypesBusnesLayer\bin\Debug\TestTypesBusnesLayer.pdb
+D:\coding files\DVLD_project\TestTypesBusnesLayer\bin\Debug\TestTypesDataLayer.dll
+D:\coding files\DVLD_project\TestTypesBusnesLayer\bin\Debug\TestTypesDataLayer.pdb
+D:\coding files\DVLD_project\TestTypesBusnesLayer\obj\Debug\TestTypesBusnesLayer.csproj.AssemblyReference.cache
+D:\coding files\DVLD_project\TestTypesBusnesLayer\obj\Debug\TestTypesBusnesLayer.csproj.CoreCompileInputs.cache
+D:\coding files\DVLD_project\TestTypesBusnesLayer\obj\Debug\TestType.ECF51A3F.Up2Date
+D:\coding files\DVLD_project\TestTypesBusnesLayer\obj\Debug\TestTypesBusnesLayer.dll
+D:\coding files\DVLD_project\TestTypesBusnesLayer\obj\Debug\TestTypesBusnesLayer.pdb

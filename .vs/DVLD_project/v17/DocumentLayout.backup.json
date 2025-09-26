@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding files\\DVLD_project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|d:\\coding files\\dvld_project\\dvld_project\\people forms\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|solutionrelative:dvld_project\\people forms\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|d:\\coding files\\dvld_project\\dvld_project\\people forms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|solutionrelative:dvld_project\\people forms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78817BC3-FE86-422A-873C-9006E2A51D36}|CountriesDBLayer\\CountriesDBLayer.csproj|d:\\coding files\\dvld_project\\countriesdblayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78817BC3-FE86-422A-873C-9006E2A51D36}|CountriesDBLayer\\CountriesDBLayer.csproj|solutionrelative:countriesdblayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|d:\\coding files\\dvld_project\\dvld_project\\people forms\\personcardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|solutionrelative:dvld_project\\people forms\\personcardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|D:\\coding files\\DVLD_project\\dvld_project\\people forms\\personcardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|solutionrelative:dvld_project\\people forms\\personcardcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|d:\\coding files\\dvld_project\\dvld_project\\usersforms\\ctrusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|solutionrelative:dvld_project\\usersforms\\ctrusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|d:\\coding files\\dvld_project\\dvld_project\\people forms\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|solutionrelative:dvld_project\\people forms\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|d:\\coding files\\dvld_project\\dvld_project\\usersforms\\ctrusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|solutionrelative:dvld_project\\usersforms\\ctrusercard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|D:\\coding files\\DVLD_project\\dvld_project\\people forms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|solutionrelative:dvld_project\\people forms\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0046862-275B-4EF9-973F-33E08281D03D}|countriesBusnesLayer\\countriesBusnesLayer.csproj|d:\\coding files\\dvld_project\\countriesbusneslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0046862-275B-4EF9-973F-33E08281D03D}|countriesBusnesLayer\\countriesBusnesLayer.csproj|solutionrelative:countriesbusneslayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0379672-9E8F-4063-88A8-9A1042805DA9}|PeopleBusnisLayer\\PeopleBusnisLayer.csproj|d:\\coding files\\dvld_project\\peoplebusnislayer\\peoplebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0379672-9E8F-4063-88A8-9A1042805DA9}|PeopleBusnisLayer\\PeopleBusnisLayer.csproj|solutionrelative:peoplebusnislayer\\peoplebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|d:\\coding files\\dvld_project\\dvld_project\\usersforms\\frmshowusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|solutionrelative:dvld_project\\usersforms\\frmshowusersinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|d:\\coding files\\dvld_project\\dvld_project\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|solutionrelative:dvld_project\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|D:\\coding files\\DVLD_project\\dvld_project\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD470EE8-D9A3-4DD6-935B-5B365A8657A4}|DVLD_project\\DVLD_project.csproj|solutionrelative:dvld_project\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "D:\\coding files\\DVLD_project\\DVLD_project\\People Forms\\Form4.cs",
+              "RelativeDocumentMoniker": "DVLD_project\\People Forms\\Form4.cs",
+              "ToolTip": "D:\\coding files\\DVLD_project\\DVLD_project\\People Forms\\Form4.cs",
+              "RelativeToolTip": "DVLD_project\\People Forms\\Form4.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwCIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:25:25.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "D:\\coding files\\DVLD_project\\DVLD_project\\People Forms\\UserControl1.cs",
+              "RelativeDocumentMoniker": "DVLD_project\\People Forms\\UserControl1.cs",
+              "ToolTip": "D:\\coding files\\DVLD_project\\DVLD_project\\People Forms\\UserControl1.cs",
+              "RelativeToolTip": "DVLD_project\\People Forms\\UserControl1.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAAAEYBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:46:23.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\coding files\\DVLD_project\\CountriesDBLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "CountriesDBLayer\\Class1.cs",
+              "ToolTip": "D:\\coding files\\DVLD_project\\CountriesDBLayer\\Class1.cs",
+              "RelativeToolTip": "CountriesDBLayer\\Class1.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAuwEwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:41:52.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonCardControl.cs [Design]",
+              "DocumentMoniker": "D:\\coding files\\DVLD_project\\DVLD_project\\People Forms\\PersonCardControl.cs",
+              "RelativeDocumentMoniker": "DVLD_project\\People Forms\\PersonCardControl.cs",
+              "ToolTip": "D:\\coding files\\DVLD_project\\DVLD_project\\People Forms\\PersonCardControl.cs [Design]",
+              "RelativeToolTip": "DVLD_project\\People Forms\\PersonCardControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:36:51.827Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonCardControl.cs",
+              "DocumentMoniker": "D:\\coding files\\DVLD_project\\DVLD_project\\People Forms\\PersonCardControl.cs",
+              "RelativeDocumentMoniker": "DVLD_project\\People Forms\\PersonCardControl.cs",
+              "ToolTip": "D:\\coding files\\DVLD_project\\DVLD_project\\People Forms\\PersonCardControl.cs",
+              "RelativeToolTip": "DVLD_project\\People Forms\\PersonCardControl.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowDcAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T07:42:18.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ctrUserCard.cs",
+              "DocumentMoniker": "D:\\coding files\\DVLD_project\\DVLD_project\\UsersForms\\ctrUserCard.cs",
+              "RelativeDocumentMoniker": "DVLD_project\\UsersForms\\ctrUserCard.cs",
+              "ToolTip": "D:\\coding files\\DVLD_project\\DVLD_project\\UsersForms\\ctrUserCard.cs",
+              "RelativeToolTip": "DVLD_project\\UsersForms\\ctrUserCard.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:25:39.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ctrUserCard.cs [Design]",
+              "DocumentMoniker": "D:\\coding files\\DVLD_project\\DVLD_project\\UsersForms\\ctrUserCard.cs",
+              "RelativeDocumentMoniker": "DVLD_project\\UsersForms\\ctrUserCard.cs",
+              "ToolTip": "D:\\coding files\\DVLD_project\\DVLD_project\\UsersForms\\ctrUserCard.cs [Design]",
+              "RelativeToolTip": "DVLD_project\\UsersForms\\ctrUserCard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:25:20.746Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmShowUsersInfo.cs [Design]",
+              "DocumentMoniker": "D:\\coding files\\DVLD_project\\DVLD_project\\UsersForms\\frmShowUsersInfo.cs",
+              "RelativeDocumentMoniker": "DVLD_project\\UsersForms\\frmShowUsersInfo.cs",
+              "ToolTip": "D:\\coding files\\DVLD_project\\DVLD_project\\UsersForms\\frmShowUsersInfo.cs [Design]",
+              "RelativeToolTip": "DVLD_project\\UsersForms\\frmShowUsersInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:25:14.572Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "D:\\coding files\\DVLD_project\\DVLD_project\\People Forms\\UserControl1.cs",
+              "RelativeDocumentMoniker": "DVLD_project\\People Forms\\UserControl1.cs",
+              "ToolTip": "D:\\coding files\\DVLD_project\\DVLD_project\\People Forms\\UserControl1.cs [Design]",
+              "RelativeToolTip": "DVLD_project\\People Forms\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T13:04:15.784Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\coding files\\DVLD_project\\countriesBusnesLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "countriesBusnesLayer\\Class1.cs",
+              "ToolTip": "D:\\coding files\\DVLD_project\\countriesBusnesLayer\\Class1.cs",
+              "RelativeToolTip": "countriesBusnesLayer\\Class1.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wCkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:43:37.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "D:\\coding files\\DVLD_project\\DVLD_project\\People Forms\\Form4.cs",
+              "RelativeDocumentMoniker": "DVLD_project\\People Forms\\Form4.cs",
+              "ToolTip": "D:\\coding files\\DVLD_project\\DVLD_project\\People Forms\\Form4.cs [Design]",
+              "RelativeToolTip": "DVLD_project\\People Forms\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:26:02.232Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PeopleBus.cs",
+              "DocumentMoniker": "D:\\coding files\\DVLD_project\\PeopleBusnisLayer\\PeopleBus.cs",
+              "RelativeDocumentMoniker": "PeopleBusnisLayer\\PeopleBus.cs",
+              "ToolTip": "D:\\coding files\\DVLD_project\\PeopleBusnisLayer\\PeopleBus.cs",
+              "RelativeToolTip": "PeopleBusnisLayer\\PeopleBus.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAA7wEoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:48:30.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "D:\\coding files\\DVLD_project\\DVLD_project\\MainMenu.cs",
+              "RelativeDocumentMoniker": "DVLD_project\\MainMenu.cs",
+              "ToolTip": "D:\\coding files\\DVLD_project\\DVLD_project\\MainMenu.cs",
+              "RelativeToolTip": "DVLD_project\\MainMenu.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADgvzEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:22:19.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainMenu.cs [Design]",
+              "DocumentMoniker": "D:\\coding files\\DVLD_project\\DVLD_project\\MainMenu.cs",
+              "RelativeDocumentMoniker": "DVLD_project\\MainMenu.cs",
+              "ToolTip": "D:\\coding files\\DVLD_project\\DVLD_project\\MainMenu.cs [Design]",
+              "RelativeToolTip": "DVLD_project\\MainMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T13:24:22.299Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

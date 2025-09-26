@@ -1,0 +1,9 @@
+D:\coding files\DVLD_project\InternationalLicensesBusnesLayer\bin\Debug\InternationalLicensesBusnesLayer.dll
+D:\coding files\DVLD_project\InternationalLicensesBusnesLayer\bin\Debug\InternationalLicensesBusnesLayer.pdb
+D:\coding files\DVLD_project\InternationalLicensesBusnesLayer\bin\Debug\InternationalLicensesDataLayer.dll
+D:\coding files\DVLD_project\InternationalLicensesBusnesLayer\bin\Debug\InternationalLicensesDataLayer.pdb
+D:\coding files\DVLD_project\InternationalLicensesBusnesLayer\obj\Debug\InternationalLicensesBusnesLayer.csproj.AssemblyReference.cache
+D:\coding files\DVLD_project\InternationalLicensesBusnesLayer\obj\Debug\InternationalLicensesBusnesLayer.csproj.CoreCompileInputs.cache
+D:\coding files\DVLD_project\InternationalLicensesBusnesLayer\obj\Debug\Internat.6E923757.Up2Date
+D:\coding files\DVLD_project\InternationalLicensesBusnesLayer\obj\Debug\InternationalLicensesBusnesLayer.dll
+D:\coding files\DVLD_project\InternationalLicensesBusnesLayer\obj\Debug\InternationalLicensesBusnesLayer.pdb

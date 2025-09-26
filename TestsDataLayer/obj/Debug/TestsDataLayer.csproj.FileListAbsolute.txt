@@ -1,0 +1,6 @@
+D:\coding files\DVLD_project\TestsDataLayer\bin\Debug\TestsDataLayer.dll
+D:\coding files\DVLD_project\TestsDataLayer\bin\Debug\TestsDataLayer.pdb
+D:\coding files\DVLD_project\TestsDataLayer\obj\Debug\TestsDataLayer.csproj.AssemblyReference.cache
+D:\coding files\DVLD_project\TestsDataLayer\obj\Debug\TestsDataLayer.csproj.CoreCompileInputs.cache
+D:\coding files\DVLD_project\TestsDataLayer\obj\Debug\TestsDataLayer.dll
+D:\coding files\DVLD_project\TestsDataLayer\obj\Debug\TestsDataLayer.pdb

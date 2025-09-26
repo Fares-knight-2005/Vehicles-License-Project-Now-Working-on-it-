@@ -1,0 +1,6 @@
+D:\coding files\DVLD_project\LicensesDataLayer\bin\Debug\LicensesDataLayer.dll
+D:\coding files\DVLD_project\LicensesDataLayer\bin\Debug\LicensesDataLayer.pdb
+D:\coding files\DVLD_project\LicensesDataLayer\obj\Debug\LicensesDataLayer.csproj.AssemblyReference.cache
+D:\coding files\DVLD_project\LicensesDataLayer\obj\Debug\LicensesDataLayer.csproj.CoreCompileInputs.cache
+D:\coding files\DVLD_project\LicensesDataLayer\obj\Debug\LicensesDataLayer.dll
+D:\coding files\DVLD_project\LicensesDataLayer\obj\Debug\LicensesDataLayer.pdb
