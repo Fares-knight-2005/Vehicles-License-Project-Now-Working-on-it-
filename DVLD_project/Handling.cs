@@ -41,6 +41,10 @@ namespace DVLD_project
                 errorProvider1.SetError(textBox, "only numbers ");
                 return false;
             }
+            else
+            {
+                errorProvider1.SetError(textBox,null);
+            }
             return true;
         }
 

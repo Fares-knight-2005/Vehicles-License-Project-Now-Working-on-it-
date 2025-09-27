@@ -115,6 +115,12 @@
     <Compile Include="UsersForms\ctrUserCard.Designer.cs">
       <DependentUpon>ctrUserCard.cs</DependentUpon>
     </Compile>
+    <Compile Include="UsersForms\frmUsersList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UsersForms\frmUsersList.Designer.cs">
+      <DependentUpon>frmUsersList.cs</DependentUpon>
+    </Compile>
     <Compile Include="UsersForms\frmChangePassword.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -175,6 +181,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="UsersForms\frmShowUsersInfo.resx">
       <DependentUpon>frmShowUsersInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UsersForms\frmUsersList.resx">
+      <DependentUpon>frmUsersList.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -294,6 +303,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\help_zoom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users 2 400.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users 2 4001.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

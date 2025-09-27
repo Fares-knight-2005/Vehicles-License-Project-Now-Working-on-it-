@@ -55,3 +55,4 @@ D:\coding files\DVLD_project\DVLD_project\obj\Debug\DVLD_project.UsersForms.AddU
 D:\coding files\DVLD_project\DVLD_project\obj\Debug\DVLD_project.UsersForms.ctrUserCard.resources
 D:\coding files\DVLD_project\DVLD_project\obj\Debug\DVLD_project.UsersForms.frmShowUsersInfo.resources
 D:\coding files\DVLD_project\DVLD_project\obj\Debug\DVLD_project.UsersForms.frmChangePassword.resources
+D:\coding files\DVLD_project\DVLD_project\obj\Debug\DVLD_project.UsersForms.frmUsersList.resources

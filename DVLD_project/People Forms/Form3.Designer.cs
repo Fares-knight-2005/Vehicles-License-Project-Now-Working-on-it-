@@ -172,7 +172,7 @@
             this.menuStrip1.Location = new System.Drawing.Point(544, 521);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.System;
-            this.menuStrip1.Size = new System.Drawing.Size(112, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(262, 28);
             this.menuStrip1.TabIndex = 9;
             this.menuStrip1.Text = "menuStrip1";
             this.menuStrip1.Visible = false;
@@ -194,46 +194,46 @@
             // updatePersonToolStripMenuItem
             // 
             this.updatePersonToolStripMenuItem.Name = "updatePersonToolStripMenuItem";
-            this.updatePersonToolStripMenuItem.Size = new System.Drawing.Size(201, 26);
+            this.updatePersonToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.updatePersonToolStripMenuItem.Text = "Update Person";
             this.updatePersonToolStripMenuItem.Click += new System.EventHandler(this.updatePersonToolStripMenuItem_Click);
             // 
             // showDeatelsToolStripMenuItem
             // 
             this.showDeatelsToolStripMenuItem.Name = "showDeatelsToolStripMenuItem";
-            this.showDeatelsToolStripMenuItem.Size = new System.Drawing.Size(201, 26);
+            this.showDeatelsToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.showDeatelsToolStripMenuItem.Text = "Show Deatels";
             this.showDeatelsToolStripMenuItem.Click += new System.EventHandler(this.showDeatelsToolStripMenuItem_Click);
             // 
             // deletePersonToolStripMenuItem
             // 
             this.deletePersonToolStripMenuItem.Name = "deletePersonToolStripMenuItem";
-            this.deletePersonToolStripMenuItem.Size = new System.Drawing.Size(201, 26);
+            this.deletePersonToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.deletePersonToolStripMenuItem.Text = "Delete Person";
             this.deletePersonToolStripMenuItem.Click += new System.EventHandler(this.deletePersonToolStripMenuItem_Click);
             // 
             // addNewPersonToolStripMenuItem
             // 
             this.addNewPersonToolStripMenuItem.Name = "addNewPersonToolStripMenuItem";
-            this.addNewPersonToolStripMenuItem.Size = new System.Drawing.Size(201, 26);
+            this.addNewPersonToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.addNewPersonToolStripMenuItem.Text = "Add New Person";
             this.addNewPersonToolStripMenuItem.Click += new System.EventHandler(this.addNewPersonToolStripMenuItem_Click);
             // 
             // toolStripSeparator1
             // 
             this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(198, 6);
+            this.toolStripSeparator1.Size = new System.Drawing.Size(221, 6);
             // 
             // sendEmailToolStripMenuItem
             // 
             this.sendEmailToolStripMenuItem.Name = "sendEmailToolStripMenuItem";
-            this.sendEmailToolStripMenuItem.Size = new System.Drawing.Size(201, 26);
+            this.sendEmailToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.sendEmailToolStripMenuItem.Text = "Send Email";
             // 
             // phoneCallToolStripMenuItem
             // 
             this.phoneCallToolStripMenuItem.Name = "phoneCallToolStripMenuItem";
-            this.phoneCallToolStripMenuItem.Size = new System.Drawing.Size(201, 26);
+            this.phoneCallToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
             this.phoneCallToolStripMenuItem.Text = "Phone Call";
             // 
             // pictureBox2

@@ -46,7 +46,7 @@ namespace DVLD_project
 
         private void usersToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            frmShowUsersInfo frm = new frmShowUsersInfo(1);
+            frmUsersList frm = new frmUsersList();
             frm.ShowDialog();
         }
     }
