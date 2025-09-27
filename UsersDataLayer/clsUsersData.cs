@@ -264,7 +264,7 @@ namespace UsersDataLayer
                 {
                     isFound = true;
 
-                    UserID   = (int)reader["UsersID"];
+                    UserID   = (int)reader["UserID"];
                     PersonID = (int)reader["PersonID"];
                     IsActive = (bool)reader["IsActive"];
                 }

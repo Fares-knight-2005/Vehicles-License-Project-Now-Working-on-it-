@@ -91,7 +91,7 @@ namespace UsersBusnesLayer
             int ID = -1;
             bool IsActive = false;
             if (clsUsersData.FindUserByUserNameAndUserPassword(ref UserName, ref Password, ref PersonID, ref IsActive, ref ID))
-                return new User(ID, UserName, Password, IsActive, PersonID);
+                return new User(ID, UserName, Password, IsActive,PersonID);
             return null;
         }
         public static User FindByPersonId(int PersonId) 

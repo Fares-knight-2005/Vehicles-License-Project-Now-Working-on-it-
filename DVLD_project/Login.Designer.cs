@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Login));
             this.lblLogin = new System.Windows.Forms.Label();
             this.lblPassword = new System.Windows.Forms.Label();
@@ -39,9 +40,11 @@
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
             // 
             // lblLogin
@@ -61,7 +64,7 @@
             this.lblPassword.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblPassword.AutoSize = true;
             this.lblPassword.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblPassword.Location = new System.Drawing.Point(309, 203);
+            this.lblPassword.Location = new System.Drawing.Point(318, 203);
             this.lblPassword.Name = "lblPassword";
             this.lblPassword.Size = new System.Drawing.Size(75, 18);
             this.lblPassword.TabIndex = 1;
@@ -72,7 +75,7 @@
             this.lblUserName.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.lblUserName.AutoSize = true;
             this.lblUserName.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblUserName.Location = new System.Drawing.Point(309, 150);
+            this.lblUserName.Location = new System.Drawing.Point(318, 150);
             this.lblUserName.Name = "lblUserName";
             this.lblUserName.Size = new System.Drawing.Size(80, 18);
             this.lblUserName.TabIndex = 2;
@@ -125,7 +128,7 @@
             this.pictureBox3.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox3.Image = global::DVLD_project.Properties.Resources.user__1_;
             this.pictureBox3.InitialImage = global::DVLD_project.Properties.Resources.car;
-            this.pictureBox3.Location = new System.Drawing.Point(395, 203);
+            this.pictureBox3.Location = new System.Drawing.Point(404, 199);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(31, 22);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -137,7 +140,7 @@
             this.pictureBox1.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.pictureBox1.Image = global::DVLD_project.Properties.Resources.user;
             this.pictureBox1.InitialImage = global::DVLD_project.Properties.Resources.user;
-            this.pictureBox1.Location = new System.Drawing.Point(395, 146);
+            this.pictureBox1.Location = new System.Drawing.Point(404, 146);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(31, 22);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -155,6 +158,10 @@
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 10;
             this.pictureBox2.TabStop = false;
+            // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
             // 
             // Login
             // 
@@ -175,12 +182,15 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "Login";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
+            this.Load += new System.EventHandler(this.Login_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -198,6 +208,7 @@
         private System.Windows.Forms.Button btnLogin;
         private System.Windows.Forms.CheckBox chkBRememberMe;
         private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
     }
 }
 

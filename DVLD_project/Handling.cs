@@ -17,6 +17,10 @@ namespace DVLD_project
                 errorProvider1.SetError(toCheck, "This fieled is required");
                 return false;
             }
+            else
+            {
+                errorProvider1.SetError(toCheck, null);
+            }
             return true;
         }
 

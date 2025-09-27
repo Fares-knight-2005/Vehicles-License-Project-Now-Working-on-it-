@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="clsGlobal.cs" />
     <Compile Include="Handling.cs" />
     <Compile Include="Login.cs">
       <SubType>Form</SubType>

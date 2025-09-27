@@ -13,9 +13,11 @@ namespace DVLD_project
 {
     public partial class Main_Menu : Form
     {
-        public Main_Menu()
+        Login frm;
+        public Main_Menu(Login frm)
         {
             InitializeComponent();
+            this.frm = frm;
         }
 
         private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
@@ -48,6 +50,26 @@ namespace DVLD_project
         {
             frmUsersList frm = new frmUsersList();
             frm.ShowDialog();
+        }
+
+        private void currentUserInfoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmShowUsersInfo frm = new frmShowUsersInfo(clsGlobal._user.Id);
+            frm.ShowDialog();
+        }
+
+        private void changePasswordToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmChangePassword frm = new frmChangePassword(clsGlobal._user.Id);
+            frm.ShowDialog();
+        }
+
+        private void signOutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            clsGlobal._user = null;
+
+            frm.Show();
+            this.Close();
         }
     }
 }
