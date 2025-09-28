@@ -157,7 +157,7 @@ namespace TestTypesDataLayer
             finally { con.Close(); }
             return isFound;
         }
-        public static bool FindTestTypeByTestTypeID(ref string TestTypeTitle, ref string TestTypeDescription, ref Double TestTypeFees, ref int TestTypeID)
+        public static bool FindTestTypeByTestTypeID(ref string TestTypeTitle, ref string TestTypeDescription, ref Double TestTypeFees, int TestTypeID)
         {
             SqlConnection conn = new SqlConnection(connectionString);
             string query = "Select * from TestTypes where TestTypeID = @TestTypeID";
@@ -175,7 +175,7 @@ namespace TestTypesDataLayer
 
                     TestTypeTitle = (string)reader["TestTypeTitle"];
                     TestTypeDescription = (string)reader["TestTypeDescription"];
-                    TestTypeFees = (Double)reader["TestTypeFees"];
+                    TestTypeFees = Convert.ToDouble(reader["TestTypeFees"]);
 
 
                 }

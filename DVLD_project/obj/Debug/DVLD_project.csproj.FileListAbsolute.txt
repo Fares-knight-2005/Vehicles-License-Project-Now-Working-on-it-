@@ -56,3 +56,11 @@ D:\coding files\DVLD_project\DVLD_project\obj\Debug\DVLD_project.UsersForms.ctrU
 D:\coding files\DVLD_project\DVLD_project\obj\Debug\DVLD_project.UsersForms.frmShowUsersInfo.resources
 D:\coding files\DVLD_project\DVLD_project\obj\Debug\DVLD_project.UsersForms.frmChangePassword.resources
 D:\coding files\DVLD_project\DVLD_project\obj\Debug\DVLD_project.UsersForms.frmUsersList.resources
+D:\coding files\DVLD_project\DVLD_project\bin\Debug\ApplicationTypesDataLayer.dll
+D:\coding files\DVLD_project\DVLD_project\bin\Debug\ApplicationTypesDataLayer.pdb
+D:\coding files\DVLD_project\DVLD_project\obj\Debug\DVLD_project.Applications_Forms.Application_Types_Forms.frmApplicationTypesList.resources
+D:\coding files\DVLD_project\DVLD_project\obj\Debug\DVLD_project.Applications_Forms.Application_Types_Forms.frmEditApplicationYpes.resources
+D:\coding files\DVLD_project\DVLD_project\obj\Debug\DVLD_project.Test_Forms.Test_Types.frmTestTypesListcs.resources
+D:\coding files\DVLD_project\DVLD_project\bin\Debug\TestTypesDataLayer.dll
+D:\coding files\DVLD_project\DVLD_project\bin\Debug\TestTypesDataLayer.pdb
+D:\coding files\DVLD_project\DVLD_project\obj\Debug\DVLD_project.Test_Forms.Test_Types.frmEditTestTypecs.resources

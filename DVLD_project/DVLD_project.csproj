@@ -46,6 +46,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Applications Forms\Application Types Forms\frmApplicationTypesList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Applications Forms\Application Types Forms\frmApplicationTypesList.Designer.cs">
+      <DependentUpon>frmApplicationTypesList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Applications Forms\Application Types Forms\frmEditApplicationYpes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Applications Forms\Application Types Forms\frmEditApplicationYpes.Designer.cs">
+      <DependentUpon>frmEditApplicationYpes.cs</DependentUpon>
+    </Compile>
     <Compile Include="clsGlobal.cs" />
     <Compile Include="Handling.cs" />
     <Compile Include="Login.cs">
@@ -104,36 +116,54 @@
     <Compile Include="People Forms\PersonCardControl.Designer.cs">
       <DependentUpon>PersonCardControl.cs</DependentUpon>
     </Compile>
-    <Compile Include="UsersForms\AddUpdateUser.cs">
+    <Compile Include="Test Forms\Test Types\frmEditTestTypecs.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UsersForms\AddUpdateUser.Designer.cs">
+    <Compile Include="Test Forms\Test Types\frmEditTestTypecs.Designer.cs">
+      <DependentUpon>frmEditTestTypecs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Test Forms\Test Types\frmTestTypesListcs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test Forms\Test Types\frmTestTypesListcs.Designer.cs">
+      <DependentUpon>frmTestTypesListcs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Forms\AddUpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users Forms\AddUpdateUser.Designer.cs">
       <DependentUpon>AddUpdateUser.cs</DependentUpon>
     </Compile>
-    <Compile Include="UsersForms\ctrUserCard.cs">
+    <Compile Include="Users Forms\ctrUserCard.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Include="UsersForms\ctrUserCard.Designer.cs">
+    <Compile Include="Users Forms\ctrUserCard.Designer.cs">
       <DependentUpon>ctrUserCard.cs</DependentUpon>
     </Compile>
-    <Compile Include="UsersForms\frmUsersList.cs">
+    <Compile Include="Users Forms\frmUsersList.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UsersForms\frmUsersList.Designer.cs">
+    <Compile Include="Users Forms\frmUsersList.Designer.cs">
       <DependentUpon>frmUsersList.cs</DependentUpon>
     </Compile>
-    <Compile Include="UsersForms\frmChangePassword.cs">
+    <Compile Include="Users Forms\frmChangePassword.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UsersForms\frmChangePassword.Designer.cs">
+    <Compile Include="Users Forms\frmChangePassword.Designer.cs">
       <DependentUpon>frmChangePassword.cs</DependentUpon>
     </Compile>
-    <Compile Include="UsersForms\frmShowUsersInfo.cs">
+    <Compile Include="Users Forms\frmShowUsersInfo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="UsersForms\frmShowUsersInfo.Designer.cs">
+    <Compile Include="Users Forms\frmShowUsersInfo.Designer.cs">
       <DependentUpon>frmShowUsersInfo.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Applications Forms\Application Types Forms\frmApplicationTypesList.resx">
+      <DependentUpon>frmApplicationTypesList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Applications Forms\Application Types Forms\frmEditApplicationYpes.resx">
+      <DependentUpon>frmEditApplicationYpes.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
@@ -171,19 +201,25 @@
     <EmbeddedResource Include="People Forms\PersonCardControl.resx">
       <DependentUpon>PersonCardControl.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UsersForms\AddUpdateUser.resx">
+    <EmbeddedResource Include="Test Forms\Test Types\frmEditTestTypecs.resx">
+      <DependentUpon>frmEditTestTypecs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test Forms\Test Types\frmTestTypesListcs.resx">
+      <DependentUpon>frmTestTypesListcs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Forms\AddUpdateUser.resx">
       <DependentUpon>AddUpdateUser.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UsersForms\ctrUserCard.resx">
+    <EmbeddedResource Include="Users Forms\ctrUserCard.resx">
       <DependentUpon>ctrUserCard.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UsersForms\frmChangePassword.resx">
+    <EmbeddedResource Include="Users Forms\frmChangePassword.resx">
       <DependentUpon>frmChangePassword.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UsersForms\frmShowUsersInfo.resx">
+    <EmbeddedResource Include="Users Forms\frmShowUsersInfo.resx">
       <DependentUpon>frmShowUsersInfo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="UsersForms\frmUsersList.resx">
+    <EmbeddedResource Include="Users Forms\frmUsersList.resx">
       <DependentUpon>frmUsersList.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
@@ -310,6 +346,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Users 2 4001.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Applications Forms\Application Forms\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Application Types 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TestType 512.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

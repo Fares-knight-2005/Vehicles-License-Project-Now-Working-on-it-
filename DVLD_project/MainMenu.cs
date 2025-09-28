@@ -7,6 +7,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DVLD_project.Applications_Forms.Application_Types_Forms;
+using DVLD_project.Test_Forms.Test_Types;
 using DVLD_project.UsersForms;
 
 namespace DVLD_project
@@ -70,6 +72,18 @@ namespace DVLD_project
 
             frm.Show();
             this.Close();
+        }
+
+        private void manageApplicationTypesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmApplicationTypesList frm = new frmApplicationTypesList();
+            frm.ShowDialog();
+        }
+
+        private void manageTestTypesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmTestTypesListcs frm = new frmTestTypesListcs();
+            frm.ShowDialog();
         }
     }
 }
